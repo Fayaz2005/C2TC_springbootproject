@@ -1,4 +1,4 @@
-package springexamples;
+package com.tnsif.springexamples;
 
 public class Customer {
 	public void display()
